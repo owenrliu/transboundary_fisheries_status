@@ -5,7 +5,7 @@ set more off;
 use "/Users/renatomolina/Box Sync/GitHub/transboundary/Empirical analysis/data/WDB_edf.dta";
 
 cd "/Users/renatomolina/Box Sync/GitHub/transboundary/Empirical analysis/Tables/pnas/summary";
-
+ 
 gen eez = eez0 ;
 gen hs  = hs0;
 gen hhi = hhi0;

@@ -6,7 +6,7 @@ clear all
 set more off;
 
 use "~/WDB.dta";
-
+ 
 
 * Set up panel structure;
 
