@@ -5,7 +5,7 @@ clear all
 #delimit ;
 set more off;
 
-use "~WDB.dta";
+use "~/transboundary_fisheries_status/Data/WDB.dta";
 
 
 * Set up panel structure; 
